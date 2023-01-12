@@ -41,7 +41,9 @@ function App() {
       <hr />
 
       <ul>
-        {listItems}</ul>
+        {listItems}
+        
+      </ul>
     </div> 
     );
 }
